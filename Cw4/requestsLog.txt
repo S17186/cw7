@@ -1,0 +1,346 @@
+{ "Studies": "Informatyka", "Semester": 6}
+
+
+{ "Studies": "Informatyka", "Semester": 6}
+
+
+
+{ "Studies": "Informatyka", "Semester": 6}
+{ "Studies": "Informatyka", "Semester": 6}
+
+
+
+
+
+
+
+
+
+{
+	"login": "brdziak",
+	"password": "waraodmojegokota"
+}
+
+
+
+
+
+
+
+
+
+
+{
+	"login": "brdziak",
+	"password": "waraodmojegokota"
+}
+{
+	"login": "brdziak",
+	"password": "waraodmojegokota"
+}
+{
+	"login": "brdziak",
+	"password": "waraodmojegokota"
+}
+{
+	"login": "brdziak",
+	"password": "waraodmojegokota"
+}
+{
+	"login": "brdziak",
+	"password": "waraodmojegokota"
+}
+{
+	"login": "brdziak",
+	"password": "waraodmojegokota"
+}
+{
+	"login": "brdziak",
+	"password": "waraodmojegokota"
+}
+
+{
+	"login": "brdziak",
+	"password": "waraodmojegokota"
+}
+{
+	"login": "brdziak",
+	"password": "waraodmojegokota"
+}
+{
+	"login": "brdziak",
+	"password": "waraodmojegokota"
+}
+
+{
+	"login": "brdziak",
+	"password": "waraodmojegokota"
+}
+{
+	"login": "brdziak",
+	"password": "waraodmojegokota"
+}
+{
+	"login": "brdziak",
+	"password": "waraodmojegokota"
+}
+{
+	"login": "brdziak",
+	"password": "waraodmojegokota"
+}
+{
+	"login": "brdziak",
+	"password": "waraodmojegokota"
+}
+{
+	"login": "brdziak",
+	"password": "waraodmojegokota"
+}
+
+
+
+
+
+{
+	"login": "brdziak",
+	"password": "waraodmojegokota"
+}
+{
+	"login": "brdziak",
+	"password": "waraodmojegokota"
+}
+{
+	"login": "brdziak",
+	"password": "waraodmojegokota"
+}
+{
+	"login": "brdziak",
+	"password": "waraodmojegokota"
+}
+{
+	"login": "brdziak",
+	"password": "waraodmojegokota"
+}
+{
+	"login": "brdziak",
+	"password": "waraodmojegokota"
+}
+
+
+
+{
+	"login": "brdziak",
+	"password": "waraodmojegokota"
+}
+
+
+
+
+
+{
+	"login": "brdziak",
+	"password": "waraodmojegokota"
+}
+
+
+
+
+
+
+{
+	"login": "brdziak",
+	"password": "waraodmojegokota"
+}
+
+
+
+
+{
+	"login": "brdziak",
+	"password": "waraodmojegokota"
+}
+
+{
+	"login": "brdziak",
+	"password": "waraodmojegokota"
+}
+
+{
+	"login": "brdziak",
+	"password": "waraodmojegokota"
+}
+{
+	"login": "brdziak",
+	"password": "waraodmojegokota"
+}
+{
+	"login": "brdziak",
+	"password": "waraodmojegokota"
+}
+
+{
+	"login": "brdziak",
+	"password": "waraodmojegokota"
+}
+
+{
+	"login": "brdziak",
+	"password": "waraodmojegokota"
+}
+{
+	"login": "brdziak",
+	"password": ""
+}
+{
+	"login": "1",
+	"password": ""
+}
+
+{
+	"login": "1",
+	"password": ""
+}
+{
+	"login": "1",
+	"password": ""
+}
+{
+	"login": "1",
+	"password": ""
+}
+
+{
+	"login": "1",
+	"password": ""
+}
+{
+	"login": "1",
+	"password": "null"
+}
+{
+	"login": "1",
+	"password": null
+}
+
+{
+	"login": "1",
+	"password": ""
+}
+{
+	"login": "1",
+	"password": " "
+}
+{
+	"login": "1",
+	"password": ""
+}
+{
+	"login": "1",
+	"password": ""
+}
+{
+	"login": "1",
+	"password": ""
+}
+{
+	"login": "1",
+	"password": ""
+}
+{
+	"login": "1",
+	"password": ""
+}
+{
+	"login": "22",
+	"password": ""
+}
+{
+	"login": "2",
+	"password": ""
+}
+{
+	"login": "2",
+	"password": "g"
+}
+{
+	"login": "2",
+	"password": ""
+}
+{
+	"login": "2",
+	"password": ""
+}
+
+{
+	"login": "2",
+	"password": ""
+}
+
+{
+	"login": "2",
+	"password": ""
+}
+
+{
+	"login": "2",
+	"password": ""
+}
+
+{
+	"login": "2",
+	"password": ""
+}
+{
+	"login": "2",
+	"password": ""
+}
+{
+	"login": "1",
+	"password": ""
+}
+
+{
+	"login": "1",
+	"password": ""
+}
+
+{
+	"login": "1",
+	"password": ""
+}
+{
+	"login": "1",
+	"password": ""
+}
+{
+	"login": "1",
+	"password": ""
+}
+{
+	"login": "1",
+	"password": ""
+}
+
+{
+	"login": "1",
+	"password": ""
+}
+
+{
+	"login": "1",
+	"password": ""
+}
+
+{
+	"login": "1",
+	"password": ""
+}
+
+{
+	"login": "1",
+	"password": null
+}
+{
+	"login": "1",
+	"password": "null"
+}
